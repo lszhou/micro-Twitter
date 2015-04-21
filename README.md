@@ -43,4 +43,8 @@ Python3.4.2, Django1.7.1, etc, see requirements.txt.
 
 > - Detail page: Provides all context for a single tweet. By clicking "Read More" button, the user could see all information about current tweet and all comments to it. Note: The comment feature is implemented via "duoshuo", a Chinese-based  comment system (http://duoshuo.com/). Similarly, we could  use disqus (https://disqus.com/).
 
+> - Tweets Search. User could use the search function provided to search the previous tweets via key words.
+
+> - The links to GitHub, Facebook are provided.
+
 >- (Some screen shots are attached for the reference.)
